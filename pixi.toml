@@ -1,0 +1,30 @@
+[workspace]
+authors = ["Jared Bard <jabard89@gmail.com>"]
+channels = ["conda-forge"]
+name = "bardlab_miniPAE"
+platforms = ["osx-64","linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.7,<3.14"
+
+[pypi-dependencies]
+certifi = "==2025.4.26"
+charset-normalizer = "==3.4.1"
+colorama = "==0.4.6"
+et-xmlfile = "==2.0.0"
+idna = "==3.10"
+numpy = "==2.2.5"
+openpyxl = "==3.1.5"
+panda = "==0.3.1"
+pandas = "==2.2.3"
+python-dateutil = "==2.9.0.post0"
+pytz = "==2025.2"
+requests = "==2.32.3"
+setuptools = "==80.0.0"
+six = "==1.17.0"
+tqdm = "==4.67.1"
+tzdata = "==2025.2"
+urllib3 = "==2.4.0"

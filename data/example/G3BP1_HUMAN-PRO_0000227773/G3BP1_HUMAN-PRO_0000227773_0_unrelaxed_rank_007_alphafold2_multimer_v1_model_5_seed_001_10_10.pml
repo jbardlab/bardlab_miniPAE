@@ -1,0 +1,8 @@
+# Chn1 Chn2  PAE Dist  Type   ipSAE    ipSAE_d0chn ipSAE_d0dom  ipTM_af  ipTM_d0chn     pDockQ     pDockQ2    LIS      n0res  n0chn  n0dom   d0res   d0chn   d0dom  nres1   nres2   dist1   dist2  Model
+# A    B     10   10   asym  0.017901    0.642069    0.207688    0.290    0.180267      0.6122     0.0102     0.1468      11   1015    116    1.04   10.60    3.97     96      20      31      16   /scratch/user/pangkx/scripts/250904_stringdb_ppi/colabfold_batch/positive/batch_predictions/G3BP1_HUMAN-PRO_0000227773/G3BP1_HUMAN-PRO_0000227773_0_unrelaxed_rank_007_alphafold2_multimer_v1_model_5_seed_001
+alias color_A_B, color gray80, all; color magenta, chain  A and resi 6-41+55-68+70+73-77+80-82+84-85+87-98+105-117+120-128+130; color marine, chain  B and resi 485-503+505
+
+# B    A     10   10   asym  0.068302    0.605278    0.123364    0.290    0.234025      0.6122     0.0104     0.1188      54   1015     81    2.41   10.60    3.21     15      66      11      26   /scratch/user/pangkx/scripts/250904_stringdb_ppi/colabfold_batch/positive/batch_predictions/G3BP1_HUMAN-PRO_0000227773/G3BP1_HUMAN-PRO_0000227773_0_unrelaxed_rank_007_alphafold2_multimer_v1_model_5_seed_001
+# A    B     10   10   max   0.068302    0.642069    0.207688    0.290    0.234025      0.6122     0.0104     0.1328      54   1015    116    2.41   10.60    3.97     96      20      31      16   /scratch/user/pangkx/scripts/250904_stringdb_ppi/colabfold_batch/positive/batch_predictions/G3BP1_HUMAN-PRO_0000227773/G3BP1_HUMAN-PRO_0000227773_0_unrelaxed_rank_007_alphafold2_multimer_v1_model_5_seed_001
+alias color_B_A, color gray80, all; color marine, chain  B and resi 487-501; color magenta, chain  A and resi 5-6+8-42+55-63+91+93+110-117+121-130
+
